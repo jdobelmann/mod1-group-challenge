@@ -23,6 +23,8 @@ Things I'm interested in:
 * Linux and Free and Open Source Software
 * Martial Arts
 * Video Games
+![blender](https://www.blender.org/wp-content/uploads/2019/07/blender_render.jpg)
 
+Blender.  From [blender.org](https://blender.org)
 
 

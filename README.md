@@ -6,10 +6,10 @@ My Interests:
 * Cooking
 
 ## Jack Beaver 
-
-
-
-
+My interests are:
+* Golfing
+* Video Games
+* Boating
 
 ## Samuel Ritter
 

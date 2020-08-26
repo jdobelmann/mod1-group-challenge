@@ -25,9 +25,5 @@ Things I'm interested in:
 * Martial Arts
 * Video Games
 
-![image](https://www.nwmissouri.edu/getinvolved/images/headerimages/index%20header-01-01.png)
-
-Image from [Northwest Missouri State University](https://www.nwmissouri.edu/getinvolved/index.htm)
-
 
 

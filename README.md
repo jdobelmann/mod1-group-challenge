@@ -12,9 +12,10 @@
 
 
 ## Samuel Ritter
-
-
-
+Interests:
+- Software Development
+- Computer Hardware
+- Video Games
 
 
 ## Joseph Dobelmann

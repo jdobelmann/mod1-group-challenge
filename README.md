@@ -1,9 +1,9 @@
 # mod1-group-challenge
 ## Sai Prashansa Ambarkar 
-
-
-
-
+My Interests:
+* Salesforces
+* Dancing 
+* Cooking
 
 ## Jack Beaver 
 
@@ -12,10 +12,9 @@
 
 
 ## Samuel Ritter
-Interests:
-- Software Development
-- Computer Hardware
-- Video Games
+
+
+
 
 
 ## Joseph Dobelmann

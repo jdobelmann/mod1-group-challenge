@@ -1,7 +1,7 @@
 # mod1-group-challenge
 ## Sai Prashansa Ambarkar 
 My Interests:
-* Salesforces
+* Salesforce
 * Dancing 
 * Cooking
 

@@ -5,7 +5,8 @@ WHAT INTERESTS ME MORE!
 * Dancing 
 * Cooking
 
-This is my practice to collaborate with different users using GitHub. Check my profile at: [https://github.com/PrashansaAmbarkar](https://github.com/PrashansaAmbarkar)
+This is my practice to collaborate with different users using GitHub. 
+Check my profile at: [https://github.com/PrashansaAmbarkar](https://github.com/PrashansaAmbarkar)
 
 ## Jack Beaver 
 My interests are:
